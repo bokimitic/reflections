@@ -1,3 +1,3 @@
 (1) How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-To je pomocna lokacija u koju se smestaju fajlovi pred commit
+To je pomocna lokacija u koju se smestaju fajlovi pred commit. Jos nesto sam dodao.
